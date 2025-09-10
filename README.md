@@ -1,7 +1,7 @@
 # Capital Home Health Care Website
 
-This repository contains the front-end demo for the **Capital Home Health Care** website.  
-This project demonstrates a modern, responsive web design built with **React**, **Next.js**, and **CSS Modules**, with prototypes designed in **Figma**.
+This repository contains the front-end demo for the **Capital Home Health Care** redesign website.  
+It's built with **React**, **Next.js**, **TypeScript**, and **CSS Modules**, with prototypes designed in **Figma**.
 
 ---
 
@@ -18,13 +18,13 @@ Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
 
 
-> **Note:** This is a demo version; some pages are still in progress.
+> **Note:** This is a demo version; some pages are still in progress and layout is not final.
 
 ---
 
 ## 🛠 Technologies Used
 
-- **Frontend:** React, Next.js, CSS Modules  
+- **Frontend:** React, Next.js, CSS Modules, TypeScript
 - **Design & Prototyping:** Figma  
 - **Deployment:** Vercel  
 
