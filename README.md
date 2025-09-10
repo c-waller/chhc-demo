@@ -21,15 +21,6 @@ Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
 ---
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile.png)
-
----
 
 ## 🚀 Features & Highlights
 
