@@ -9,7 +9,7 @@ This project demonstrates a modern, responsive web design built with **React**, 
 
 Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
-![Demo GIF] (https://github.com/c-waller/chhc-demo/blob/main/demo1)
+![Demo GIF](https://github.com/c-waller/chhc-demo/blob/main/demo1)
 
 
 > **Note:** This is a demo version; some pages are still in progress.
