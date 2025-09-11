@@ -9,7 +9,7 @@ It's built with **React**, **Next.js**, **TypeScript**, and **CSS Modules**, wit
 
 Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
-### Desktop 
+### Home Page
 ![Demo GIF](https://github.com/c-waller/chhc-demo/blob/main/DEMOTHIGN1-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 ### Responsiveness 
