@@ -1,4 +1,4 @@
-# Capital Home Health Care Website
+# Capital Home Health Care Website Redesign
 
 This repository contains the front-end demo for the **Capital Home Health Care** redesign website.  
 It's built with **React**, **Next.js**, **TypeScript**, and **CSS Modules**, with prototypes designed in **Figma**. This is an ongoing project.
