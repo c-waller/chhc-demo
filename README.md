@@ -13,14 +13,14 @@ Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
 ![Figma About Mockup Snippet](https://github.com/c-waller/chhc-website-redesign-demo/blob/main/Figma%20Snippet.png?raw=true)
 
+## Implementation Snippets
 
-
-### Home Page
-![Demo GIF](https://github.com/c-waller/chhc-demo/blob/main/DEMOTHIGN1-ezgif.com-video-to-gif-converter.gif?raw=true)
+### About Page
+![Demo GIF](https://github.com/c-waller/chhc-website-redesign-demo/blob/main/aboutdemo-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 ### Responsiveness 
 
-![Demo GIF](https://github.com/c-waller/chhc-demo/blob/main/DEMOTHING2-ezgif.com-video-to-gif-converter.gif?raw=true)
+![Demo GIF](https://github.com/c-waller/chhc-website-redesign-demo/blob/main/AboutResponsivness-ezgif.com-video-to-gif-converter.gif?raw=true)
 
 
 
