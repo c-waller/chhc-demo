@@ -9,6 +9,12 @@ It's built with **React**, **Next.js**, **TypeScript**, and **CSS Modules**, wit
 
 Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
+## Figma Snippet
+
+![Figma About Mockup Snippet](https://github.com/c-waller/chhc-website-redesign-demo/blob/main/Figma%20Snippet.png?raw=true)
+
+
+
 ### Home Page
 ![Demo GIF](https://github.com/c-waller/chhc-demo/blob/main/DEMOTHIGN1-ezgif.com-video-to-gif-converter.gif?raw=true)
 
